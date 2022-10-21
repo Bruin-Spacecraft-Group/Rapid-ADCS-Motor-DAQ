@@ -1,0 +1,1 @@
+Hi! We'll be putting arduino scripts here to characterize the motors
